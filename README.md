@@ -1,4 +1,7 @@
 # 🤟🏻 Bisindo Sign Language using Deep Learning 🤟🏻
+<div align="center">
+  <img src="https://github.com/jethrosta/BISINDO-deep-learning/blob/main/images/data%20sample.png">
+</div>
 This project focuses on the classification of Indonesian Sign Language (BISINDO) alphabet images using Deep Learning techniques.
 
 ## Problem and Goal
@@ -48,6 +51,9 @@ Additional layers are added on top of the MobileNet base:
 ### Performance
 The model achieved the following accuracy on the test set:
 - Accuracy on test set: 85.45%
+<div align="center">
+  <img src="https://github.com/jethrosta/BISINDO-deep-learning/blob/main/images/Graph.png">
+</div>
 
 ## Conclusion
 This project successfully developed a deep learning model for classifying Indonesian Sign Language (BISINDO) alphabet images. Leveraging transfer learning with MobileNet and extensive data augmentation, the model achieved a commendable accuracy of 85.45% on the test set. This demonstrates the potential of deep learning in recognizing visual gestures for sign language, which can be a valuable step towards assistive technologies.
